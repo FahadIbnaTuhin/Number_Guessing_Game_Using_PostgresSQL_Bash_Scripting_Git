@@ -1,1 +1,0 @@
-# Number_Guessing_Game_Using_PostgresSQL_Bash_Scripting_Git
